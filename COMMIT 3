@@ -1,0 +1,3 @@
+echo "Updated content" >> index.txt
+git add index.txt
+git commit -m "Updated index file with new content"
