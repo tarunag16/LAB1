@@ -1,0 +1,3 @@
+echo "This project is for Git practical." >> README.md
+git add README.md
+git commit -m "Updated README with project info"
